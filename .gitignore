@@ -2,3 +2,5 @@
 !/.gitignore
 !/.travis.yml
 node_modules
+cron-builder.js
+cron-builder.js.map
