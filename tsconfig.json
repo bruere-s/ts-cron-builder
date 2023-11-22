@@ -15,6 +15,7 @@
         "strictFunctionTypes": true,
         "strictPropertyInitialization": true,
         "alwaysStrict": true,
+        "declaration": true,
         "useUnknownInCatchVariables": false,
         "forceConsistentCasingInFileNames": true
     },
