@@ -2,7 +2,7 @@
   "name": "ts-cron-builder",
   "description": "simple API for building cron expressions",
   "author": "Tyler Waneka <twwaneka@gmail.com> (http://tylerwaneka.com)",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "cron-builder.js",
   "license": "MIT",
   "repository": {
