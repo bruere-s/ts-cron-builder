@@ -43,7 +43,11 @@ class CronValidator {
      * @const
      * @type {Array}
      */
-    measureOfTimeValues = Object.values(this.measureOfTimeMap)
+    measureOfTimeValues: string[]
+
+    constructor() {
+        this.measureOfTimeValues = Object.values(this.measureOfTimeMap)
+    }
 
     /**
      * validates a given cron expression (object) for length, then calls validateValue on each value
